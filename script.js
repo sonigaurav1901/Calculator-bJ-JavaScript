@@ -1,7 +1,7 @@
 class Calculator{
     constructor();
 }
-//Calculate js work
+//Calculator by js
 
 
 const numberButtons = document.querySelectorAll('[data-number]');
